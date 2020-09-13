@@ -11,6 +11,9 @@ body{
     background-color:#000;
      font-family: 'TitilliumWeb';
 }
+
+
+
 ::-webkit-scrollbar-track {
     -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
     border-radius: 10px;
@@ -409,3 +412,7 @@ blue-text{
     margin-bottom: 14px;
     font-size: 18px;
 }
+
+
+
+
