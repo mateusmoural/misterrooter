@@ -282,7 +282,7 @@ nav .nav-links .link:hover {
 .footer {
     position: fixed;
     bottom: 0;
-    width: 100%;
+    width: 80%;
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -412,7 +412,3 @@ blue-text{
     margin-bottom: 14px;
     font-size: 18px;
 }
-
-
-
-
